@@ -1,0 +1,18 @@
+# IDE files
+.idea/
+.vscode/
+
+# Environment files
+.env
+
+# Vendor directory
+/vendor/
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+
+# Config files with sensitive data
+config/config.php 

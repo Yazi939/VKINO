@@ -1,0 +1,3 @@
+mkdir vkino
+cd vkino
+mkdir frontend backend 
